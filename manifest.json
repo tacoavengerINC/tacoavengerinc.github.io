@@ -1,0 +1,13 @@
+{
+  "name": "GTA 6 Leonida Interactive Map",
+  "short_name": "Leonida Map",
+  "description": "Interactive map of Leonida: vehicles, legendary guns, stashes, quests and hidden events, each linked to its source reel.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0f14",
+  "theme_color": "#0b0f14",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
